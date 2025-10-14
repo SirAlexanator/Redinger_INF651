@@ -1,0 +1,19 @@
+Project: Movie Watchlist Application
+This is a real-time web application built with HTML, CSS (using Materialize framework), and vanilla JavaScript to manage a user's movie watchlist.
+
+How to Interact with the Application
+Add a Movie:
+
+Type a movie title into the "Enter movie title" input field.
+
+Click the "Add Movie" button (or press the Enter key while focused on the input).
+
+The movie is immediately added to the "My Watchlist" section.
+
+Remove a Movie (Mark as Watched):
+
+Find the movie you want to remove in the list.
+
+Click the green checkmark icon (check_circle_outline) next to the movie title.
+
+The movie is instantly removed from the list, simulating the action of marking it as watched.
